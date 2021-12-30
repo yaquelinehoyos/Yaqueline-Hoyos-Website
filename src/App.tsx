@@ -1,13 +1,19 @@
 import React from 'react';
 import './App.css';
 import Image from "./components/image/Image";
-import Info from "./components/info/Info";
+import Bio from "./components/bio/Bio";
+import Path from "./components/path/Path";
 
 function App() {
   return (
     <div className="App">
-      <Image />
-      <Info />
+      <div className="App__bio">
+        <Image />
+        <Bio />
+      </div>
+      <div className="App__path">
+        <Path />
+      </div>
     </div>
   );
 }

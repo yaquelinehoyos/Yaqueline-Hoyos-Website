@@ -1,0 +1,18 @@
+.image-content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+@media (max-width: 700px) {
+    .image {
+        width: 80%;
+        height: auto;   
+    }
+}

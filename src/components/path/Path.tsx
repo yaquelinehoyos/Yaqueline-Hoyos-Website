@@ -1,10 +1,10 @@
 import React from 'react';
-import './info.css';
+import './path.css';
 
 function App() {
   return (
-    <div className="Info">
-      <p>Info component</p>
+    <div className="Path">
+      <p>Path component</p>
     </div>
   );
 }

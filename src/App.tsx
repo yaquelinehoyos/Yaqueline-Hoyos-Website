@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
+import Image from "./components/image/Image";
+import Info from "./components/info/Info";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Yaqueline Hoyos Website.
-        </p>
-      </header>
+      <Image />
+      <Info />
     </div>
   );
 }

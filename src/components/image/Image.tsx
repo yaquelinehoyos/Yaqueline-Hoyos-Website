@@ -2,7 +2,7 @@ import React from 'react';
 import './image.css';
 import websiteImage from "../../assets/website-image.jpg";
 
-function App() {
+function Image() {
   return (
     <div className="image-content">
         <img className="image" src={websiteImage} alt="Yaqueline Hoyos"></img>
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Image;

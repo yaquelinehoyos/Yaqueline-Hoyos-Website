@@ -1,7 +1,7 @@
 import React from 'react';
 import './path.css';
 
-function App() {
+function Path() {
   return (
     <div className="Path">
       <p>Path component</p>
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default Path;

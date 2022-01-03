@@ -9,7 +9,7 @@ function Path() {
       <div className="experience-card">
         <div className="experience">
           <h3 className="experience__enterprise">Guane Enterprises</h3>
-          <h4 className="experience__position">Fronted Developer</h4>
+          <h4 className="experience__position">Frontend Developer</h4>
           <p><i className="fas fa-calendar"></i> October 2019 - December 2020 <i className="fas fa-map-marker"></i> Medellín</p>
           <ul>
             <li>Build web interfaces with HTML, CSS, SASS, BEM, Bootstrap and JavaScript using Vuejs and Vuex.</li>

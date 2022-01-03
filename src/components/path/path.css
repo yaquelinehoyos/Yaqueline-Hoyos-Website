@@ -1,0 +1,23 @@
+.Path {
+    padding: 0 2%;
+}
+
+.experience-card {
+    margin-top: 10px;
+    border-radius:5px;
+    padding: 10px;
+    background: rgb(60, 62, 68);
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 6px -1px, rgb(0 0 0 / 6%) 0px 2px 4px -1px;
+}
+
+.experience {
+    text-align: left;
+}
+
+.experience__enterprise {
+    margin: 0px;
+}
+
+.experience__position {
+    color: #FFE400;
+}

@@ -9,13 +9,13 @@ function Bio() {
         <strong>University of Antioquia</strong>
       </p>
       <p>Here you can check my&nbsp;  
-        <a href="http://bibliotecadigital.udea.edu.co/handle/10495/15470" target="_blank">
+        <a href="http://bibliotecadigital.udea.edu.co/handle/10495/15470" target="_blank" rel="noopener noreferrer">
           degree work
         </a>
       </p>
       <br></br>
       <p>I'm currently working at&nbsp;  
-        <a href="https://www.globant.com" target="_blank">Globant</a> 
+        <a href="https://www.globant.com" target="_blank" rel="noopener noreferrer">Globant</a> 
         &nbsp;as a Web UI Developer
       </p>
       <p>I love Vue.js</p>

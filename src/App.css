@@ -8,14 +8,14 @@
 }
 
 .App__bio {
-  width: 50%;
+  width: 40%;
   padding: 1% 0%;
   display: flex;
   flex-direction: column;
 }
 
 .App__path {
-  width: 50%;
+  width: 60%;
   padding: 1% 0%;
   display: flex;
   flex-direction: column;

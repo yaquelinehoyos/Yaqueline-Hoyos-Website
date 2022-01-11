@@ -12,7 +12,7 @@ function Path() {
           <h4 className="experience__position">Web UI Developer</h4>
           <p><i className="fas fa-calendar"></i> October 2021 - Ongoing <i className="fas fa-map-marker"></i> Medellín</p>
           <ul>
-            <li>Build web interfaces with Vuejs and React.</li>
+            <li>Build web interfaces with Vuejs, React and Vanilla JS.</li>
             <li>Develop web interfaces using HTML, CSS, SASS, BEM, JavaScript.</li>
             <li>Manage application state with technologies such as Vuex and Redux.</li>
             <li>Adapt the design of applications to different devices and browsers.</li>
@@ -26,12 +26,18 @@ function Path() {
           <h4 className="experience__position">Frontend Team Leader</h4>
           <p><i className="fas fa-calendar"></i> December 2020 - August 2021 <i className="fas fa-map-marker"></i> Medellín</p>
           <ul>
-            <li>Develop with Vuejs framework.</li>
-            <li>Staff Management.</li>
-            <li>Task assignment.</li>
-            <li>Training and technical advice.</li>
-            <li>Code review.</li>
+            <li>Develop web interfaces for Data Science systems with the Vue.js framework.</li>
+            <li>
+              Staff Management
+              </li>
+              <ul>
+                <li>Structure and lead a team of frontend developers.</li>
+                <li>Task Assignment.</li>
+                <li>Training and technical advice.</li>
+                <li>Code reviews.</li>
+              </ul>
             <li>Time management of projects including releases and final deliveries.</li>
+            <li>Communication and management with clients and stakeholders.</li>
           </ul>
         </div>
       </div>

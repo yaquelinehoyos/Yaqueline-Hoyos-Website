@@ -4,22 +4,32 @@ import './bio.css';
 function Bio() {
   return (
     <div className="Info">
-      <h1>Hi there! I'm Yaqueline Hoyos</h1>
-      <p>I'm a software engineer from&nbsp;  
-        <strong>University of Antioquia</strong>
+      <h1 className="app-titles">Hi there! I'm Yaqueline Hoyos</h1>
+      <p>I'm a software engineer from the&nbsp;  
+        <strong>University of Antioquia</strong>, Medellín, Colombia.
       </p>
-      <p>Here you can check my&nbsp;  
-        <a href="http://bibliotecadigital.udea.edu.co/handle/10495/15470" target="_blank" rel="noopener noreferrer">
-          degree work
-        </a>
-      </p>
-      <br></br>
+      <p>I'm a bit obsessed with code and product <strong>perfection</strong>.</p>
+      <div style={{display: "inline-block"}}>I'm passionate about:
+        <ul>
+          <li><strong>UI / UX / Frontend</strong></li>
+          <li><strong>Data Science</strong></li>
+          <li><strong>Machine Learning</strong></li>
+          <li><strong>Backend / Web APIs</strong></li>
+        </ul>
+      </div>
       <p>I'm currently working at&nbsp;  
-        <a href="https://www.globant.com" target="_blank" rel="noopener noreferrer">Globant</a> 
-        &nbsp;as a Web UI Developer
+        <a 
+          href="https://www.globant.com" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className="app-titles">
+          Globant
+        </a> 
+        &nbsp;as a Web UI Developer.
       </p>
-      <p>I love Vue.js</p>
-      <p>I'm currently learning React</p>
+      <p>
+        I'm almost always taking an <strong>online course</strong>. I love to keep always learning.
+      </p>
     </div>
   );
 }

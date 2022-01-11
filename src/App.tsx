@@ -5,6 +5,7 @@ import Bio from "./components/bio/Bio";
 import SocialMedia from "./components/socialMedia/SocialMedia";
 import Path from "./components/path/Path";
 import Technologies from "./components/technologies/Technologies";
+import Hobbies from "./components/hobbies/Hobbies";
 
 function App() {
   return (
@@ -17,6 +18,11 @@ function App() {
       </div>
       <div className="App__path">
         <Path />
+        <Hobbies />
+        <div className="life-philosophy">
+          <h1 className="app-titles">My Life Philosophy</h1>
+          <h3><i>“In a world where you can be as you want to be, choose to be kind.”</i></h3>
+        </div>
       </div>
     </div>
   );

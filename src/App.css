@@ -22,6 +22,10 @@
   border-left: solid 1px rgba(118,116,140,0.212);
 }
 
+.life-philosophy {
+  margin-top: 3em;
+}
+
 @media (max-width: 1200px) {
   .App {
     flex-direction: column;

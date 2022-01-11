@@ -4,7 +4,7 @@ import './path.css';
 function Path() {
   return (
     <div className="Path">
-      <h1>My Experience</h1>
+      <h1 className="app-titles">My Experience</h1>
       <br></br>
       <div className="experience-card">
         <div className="experience">

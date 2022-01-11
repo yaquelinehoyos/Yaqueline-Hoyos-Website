@@ -4,6 +4,7 @@ import Image from "./components/image/Image";
 import Bio from "./components/bio/Bio";
 import SocialMedia from "./components/socialMedia/SocialMedia";
 import Path from "./components/path/Path";
+import Technologies from "./components/technologies/Technologies";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Image />
         <Bio />
         <SocialMedia />
+        <Technologies />
       </div>
       <div className="App__path">
         <Path />

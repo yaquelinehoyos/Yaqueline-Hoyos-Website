@@ -25,10 +25,10 @@ function Bio() {
           className="app-titles">
           Globant
         </a> 
-        &nbsp;as a Web UI Developer.
+        &nbsp;as a <strong>Web UI Developer</strong>.
       </p>
       <p>
-        I'm almost always taking an <strong>online course</strong>. I love to keep always learning.
+        I'm almost always taking an <strong>online course</strong>. I love to keep learning.
       </p>
     </div>
   );

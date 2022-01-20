@@ -14,7 +14,7 @@ function Technologies() {
           &nbsp;with several engineers, while managing communications with the clients and stakeholders.
       </p>
 
-      <h3>UI / UX / Frontend - Technologies</h3>
+      <h3 className="app-titles">UI / UX / Frontend - Technologies</h3>
       <p>
           I think <strong>JavaScript</strong> 
           &nbsp;is weird, but I love it (also <strong>TypeScript</strong>).

@@ -53,7 +53,7 @@ function Technologies() {
       <p>Then a big part of my UI / UX career focused on building user interfaces to manage data and Data Science projects.</p>
       
       <h3 className="app-titles">Data Science / Machine Learning - Technologies</h3>
-      <p>I love <strong>Python</strong> and I have worked extensively with it.</p>
+      <p>I love <strong>Python</strong> and I have worked with it.</p>
       <p>
           I have worked with <strong>Cloud Machine Learning APIs</strong>, and&nbsp; 
           <strong>Data Science packages</strong> for cleaning, processing, training, and visualization. Including&nbsp;

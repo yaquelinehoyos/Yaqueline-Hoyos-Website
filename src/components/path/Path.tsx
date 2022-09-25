@@ -8,9 +8,23 @@ function Path() {
       <br></br>
       <div className="experience-card">
         <div className="experience">
+          <h3 className="experience__enterprise">Deepset</h3>
+          <h4 className="experience__position">Frontend Engineer</h4>
+          <p><i className="fas fa-calendar"></i> August 2022 - Ongoing <i className="fas fa-map-marker"></i> Berlín, Germany</p>
+          <ul>
+            <li>Develop dashboards to manage NLP and Machine Learning projects (Artificial Inteligence).</li>
+            <li>Implement UI, UX designs in code with best practices.</li>
+            <li>Program with TypeScript, React, Redux, HTML, CSS, SASS and Ant design.</li>
+            <li>Integrate frontend UIs with backend services and APIs.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="experience-card">
+        <div className="experience">
           <h3 className="experience__enterprise">Globant</h3>
           <h4 className="experience__position">Web UI Developer</h4>
-          <p><i className="fas fa-calendar"></i> October 2021 - Ongoing <i className="fas fa-map-marker"></i> Medellín</p>
+          <p><i className="fas fa-calendar"></i> October 2021 - July 2022 <i className="fas fa-map-marker"></i> Medellín, Colombia</p>
           <ul>
             <li>Build web interfaces with Vuejs, React and Vanilla JS.</li>
             <li>Develop web interfaces using HTML, CSS, SASS, BEM, JavaScript.</li>
@@ -24,7 +38,7 @@ function Path() {
         <div className="experience">
           <h3 className="experience__enterprise">Guane Enterprises</h3>
           <h4 className="experience__position">Frontend Team Leader</h4>
-          <p><i className="fas fa-calendar"></i> December 2020 - August 2021 <i className="fas fa-map-marker"></i> Medellín</p>
+          <p><i className="fas fa-calendar"></i> December 2020 - August 2021 <i className="fas fa-map-marker"></i> Medellín, Colombia</p>
           <ul>
             <li>Develop web interfaces for Data Science systems with the Vue.js framework.</li>
             <li>
@@ -46,7 +60,7 @@ function Path() {
         <div className="experience">
           <h3 className="experience__enterprise">Guane Enterprises</h3>
           <h4 className="experience__position">Frontend Developer</h4>
-          <p><i className="fas fa-calendar"></i> October 2019 - December 2020 <i className="fas fa-map-marker"></i> Medellín</p>
+          <p><i className="fas fa-calendar"></i> October 2019 - December 2020 <i className="fas fa-map-marker"></i> Medellín, Colombia</p>
           <ul>
             <li>Build web interfaces with HTML, CSS, SASS, BEM, Bootstrap and JavaScript using Vuejs and Vuex.</li>
             <li>Adapt the design of applications to different devices and browsers.</li>

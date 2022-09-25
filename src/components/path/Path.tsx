@@ -12,7 +12,7 @@ function Path() {
           <h4 className="experience__position">Frontend Engineer</h4>
           <p><i className="fas fa-calendar"></i> August 2022 - Ongoing <i className="fas fa-map-marker"></i> Berlín, Germany</p>
           <ul>
-            <li>Develop dashboards to manage NLP and Machine Learning projects (Artificial Inteligence).</li>
+            <li>Develop dashboards to manage NLP and Machine Learning projects (Artificial Intelligence).</li>
             <li>Implement UI, UX designs in code with best practices.</li>
             <li>Program with TypeScript, React, Redux, HTML, CSS, SASS and Ant design.</li>
             <li>Integrate frontend UIs with backend services and APIs.</li>

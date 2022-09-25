@@ -19,11 +19,11 @@ function Bio() {
       </div>
       <p>I'm currently working at&nbsp;  
         <a 
-          href="https://www.globant.com" 
+          href="https://www.deepset.ai/" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="app-titles">
-          Globant
+          deepset
         </a> 
         &nbsp;as a <strong>Web UI Developer</strong>.
       </p>
